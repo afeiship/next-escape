@@ -1,0 +1,26 @@
+{
+  "name": "next-escape",
+  "description": "Converts the characters &#34;&amp;&#34;, &#34;&lt;&#34;, &#34;&gt;&#34;, &#39;&#34;&#39;, and &#34;&#39;&#34; in string to their corresponding HTML entities.",
+  "main": "dist/next-escape.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-escape",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
